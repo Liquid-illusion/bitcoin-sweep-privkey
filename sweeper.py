@@ -6,10 +6,10 @@ from json import *
 from bitcoin import *
 import signal
 
-DESTINATION_ADDRESS="DEST_ADDRESS" 
+DESTINATION_ADDRESS="DEST_ADDRESS"1HsoPNTiSR61xvwidLL2mJuFbVDzL6mmZb" 
 FEE_PER_KB = 10000 
 BTCD_USER = "bitcoinrpc"
-BTCD_PASS = "yourpassword"
+BTCD_PASS = "root"
 BTCD_HOST = "localhost"
 BTCD_PORT = "8332"
 
